@@ -1,0 +1,10 @@
+package org.faclab.android.jeudepiste.util;
+
+/**
+ * Created by Tatiana Grange on 24/03/2015.
+ */
+public class Config {
+    public static String TEMBOO_ACCOUNT = "AAAAAAA";
+    public static String TEMBOO_APP = "BBBBBBB";
+    public static String TEMBOO_KEY = "YOUBLA";
+}

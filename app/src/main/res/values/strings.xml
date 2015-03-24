@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jeu de piste</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- NFC -->
+    <string name="nfc_device_no_nfc">Ce terminal ne supporte pas le NFC</string>
+    <string name="nfc_nfc_not_activate">Le NFC n\'est pas activé. Veuillez cocher la case NFC dans les paramètres.</string>
+    <string name="nfc_compatible_device">Terminal compatible avec le NFC</string>
+    <string name="nfc_start_detection">Lance détection</string>
+    <string name="nfc_bad_mime_type">"Mauvais mime type: "</string>
+    <string name="nfc_warning_ndef_discovered">Attention! Pas passé dans le if! Pas de NDEF DICOVERED!</string>
+    <string name="nfc_unsupoprted_encoding">Encodage non supporté</string>
+    <string name="nfc_tag_read_only">Le Tag est en Read Only</string>
+    <string name="nfc_size">Pas assez de place sur le tag</string>
+    <string name="nfc_not_ndef">L\'enregistrement n\'est pas de type NDEF</string>
+    <string name="nfc_win">Le tag a été encodé</string>
+    <string name="nfc_lose">"Erreur: "</string>
+    <string name="btn_ok">Ok</string>
+
+
+    <!-- Quizz -->
+    <!-- Question 1 -->
+    <string name="question1">Quelles sont les initiales des trois verbes qui forment les règles du FacLab ?</string>
+    <string name="answer1">PPD</string>
+    <string name="clue1">Allez là où se trouvent les Arduino.</string>
+
+    <!-- Question 2 -->
+    <string name="answer2">Italie</string>
+    <string name="question2">De quel pays est originaire la carte Arduino (retournez-en une pour le découvrir) ?</string>
+    <string name="clue2">Regardez derrière le T-shirt décoré avec la découpeuse vinyle</string>
+
+    <!-- Question 3 -->
+    <string name="question3">Qu’est-ce qu’on ne peut pas faire avec la découpeuse vinyle ?</string>
+    <string name="answer3_1">Stickers</string>
+    <string name="answer3_2">Transfert sur T-shirt</string>
+    <string name="answer3_3">Découper du tissu</string>
+    <string name="answer3_4">Dessiner</string>
+    <string name="answer3_5">Imprimer une image</string>
+    <string name="clue3">Pour le prochain tag, allez voir sous les jupes de celle qui ramène sa Fraise !</string>
+
+    <!-- Question 4 -->
+    <string name="answer4">Oui</string>
+    <string name="question4">Est-ce que l\’on peut fraiser de l\'aluminium avec la Shopbot?</string>
+    <string name="clue4">Allez voir sous la boîte à badge</string>
+
+    <!-- Question 5 -->
+    <string name="answer5_1">A réserver sa place pour utiliser une laser</string>
+    <string name="answer5_2">A accrocher son nom sur son T-shirt</string>
+    <string name="answer5_3">A se rappeler de son prénom</string>
+    <string name="answer5_4">A surveiller qui est venu</string>
+    <string name="answer5_5">A compter le nombre d’utilisation de la machine</string>
+    <string name="question5">A quoi servent les badges?</string>
+    <string name="clue5">Précision : il faut suivre la formation pour créer ce badge.\nLe prochain tag est sous la hotte 152</string>
+
+    <!-- Question 6 -->
+    <string name="answer6_1">Printed Circuit Board</string>
+    <string name="answer6_2">Printed Chip Board</string>
+    <string name="answer6_3">Printed Circuit Bold</string>
+    <string name="answer6_4">Processing Circuit Board</string>
+    <string name="answer6_5">Processing Center Bread</string>
+    <string name="question6">Que veut dire PCB ?</string>
+    <string name="clue6">Cette fois-ci cherchez dans la hotte 153</string>
+
+    <!-- Question 7 -->
+    <string name="answer7">Photo</string>
+    <string name="question7">Il s’agit de la zone… (Mot de 5 lettres)</string>
+    <string name="clue7">Changez de salle vers l’impression 3D et trouvez le tag sur le côté du bureau en face du tableau des sponsors</string>
+
+    <!-- Question 8 -->
+    <string name="answer8">3</string>
+    <string name="question8">Combien d’impression 3D faut-il avoir réalisé avant d’accéder à l’Ultimaker ?</string>
+    <string name="clue8">Allez voir sous les points smocks pour le dernier Tag</string>
+
+    <!-- Question 9 -->
+    <string name="answer9">Bicloone</string>
+    <string name="question9">Comment s\'appelle le projet de veste connectée présenté sur le portant ?</string>
+    <string name="clue9"></string>
+
+
+</resources>
